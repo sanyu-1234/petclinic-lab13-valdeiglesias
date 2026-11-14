@@ -1,0 +1,16 @@
+VERIFICACION DEL PROYECTO
+Java 17 - Maven Wrapper 3.9.11 - perfil H2
+Resultado: BUILD SUCCESS
+27 pruebas; 0 fallos; 0 errores; 0 omitidas.
+
+com.tecsup.petclinic.PetClinicApplicationTests | 1 | 0 | 0 | 0
+com.tecsup.petclinic.services.PetServiceMockitoTest | 7 | 0 | 0 | 0
+com.tecsup.petclinic.services.PetServiceTest | 7 | 0 | 0 | 0
+com.tecsup.petclinic.webs.PetControllerMockitoTest | 5 | 0 | 0 | 0
+com.tecsup.petclinic.webs.PetControllerTest | 7 | 0 | 0 | 0
+
+Se verificaron compilacion, pruebas y empaquetado JAR en este entorno.
+MySQL en AWS, Jenkins y webhook: requieren comprobacion en la cuenta del alumno.
+Las capturas de entrega deben corresponder a su propia ejecucion.
+
+Arranque del JAR: GET /pets/1 devuelve HTTP 200 y la mascota Leo.

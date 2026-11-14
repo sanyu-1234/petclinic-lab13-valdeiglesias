@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+*.log
+.env
+*.pem
+*.key
+.DS_Store
